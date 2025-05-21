@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_favorite_border_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/xml_backup_rules.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_fragment_mendatang.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_mendatang.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_fragment_home.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_star_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_star_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_fragment_favorite.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_error_image.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/error_image.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_fragment_setting.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_favorite_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_activity_home.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_item_favorite_event.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_favorite_event.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_schedule_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_schedule_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_activity_detail.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_fragment_selesai.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_selesai.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_placeholder_image.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/placeholder_image.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/drawable_baseline_done_all_24.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/drawable/baseline_done_all_24.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_item_event.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dicodingevent.app-main-58:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-debug-56:/layout_item_review.xml.flat",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_review.xml"
+    }
+]

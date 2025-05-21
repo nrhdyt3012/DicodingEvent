@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/item_event.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_event.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/fragment_mendatang.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_mendatang.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/fragment_selesai.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_selesai.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/item_review.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/activity_detail.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/activity_home.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/fragment_setting.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/item_favorite_event.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/item_favorite_event.xml"
+    },
+    {
+        "merged": "com.example.dicodingevent.app-mergeDebugResources-55:/layout/fragment_favorite.xml",
+        "source": "com.example.dicodingevent.app-main-58:/layout/fragment_favorite.xml"
+    }
+]
